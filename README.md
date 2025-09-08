@@ -10,9 +10,9 @@ Blitz adalah repositori ekstensi (plugin) untuk aplikasi Cloudstream.
 2. Navigasikan ke **Settings → Extensions → Add Repository**.
 3. Masukkan URL berikut sebagai repositori: 
 ```http
-https://raw.githubusercontent.com/Mohirufy/HiroStream/builds/repo.json
+https://raw.githubusercontent.com/CUPANG74/Blitz/refs/heads/builds/plugins.json
 ```
-4. Beri nama repositori sesuai keinginan (misalnya: `HiroStream`).
+4. Beri nama repositori sesuai keinginan (misalnya: `tompel`).
 5. Download repository.
 6. Setelah berhasil dimuat, install ekstensi yang tersedia dari daftar.
 
