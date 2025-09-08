@@ -1,8 +1,8 @@
-# HiroStream
+# Blitz
 
-**Cloudstream Extension**
+**Cloudstream Extensions**
 
-HiroStream adalah repositori ekstensi (plugin) untuk aplikasi Cloudstream.
+Blitz adalah repositori ekstensi (plugin) untuk aplikasi Cloudstream.
 
 ## Cara Menambahkan ke Cloudstream
 
