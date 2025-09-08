@@ -3,6 +3,6 @@
     "description": "Cloudstream Mohirufy Repo",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Mohirufy/HiroStream/builds/plugins.json"
+      "https://raw.githubusercontent.com/CUPANG74/Blitz/refs/heads/builds/plugins.json"
     ]
 }
