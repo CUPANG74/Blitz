@@ -1,6 +1,6 @@
 {
     "name": "Blitz Repo",
-    "description": "Cloudstream Mohirufy Repo",
+    "description": "Cloudstream Blitz Repo",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/CUPANG74/Blitz/refs/heads/builds/plugins.json"
