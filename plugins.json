@@ -44,6 +44,26 @@
         "name": "Anoboy"
     },
     {
+        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/K.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 3,
+        "internalName": "KawanFilm",
+        "description": "KawanFilm merupakan situs website tempat download dan nonton film Movie, TV series terbaru gratis streaming secara online.",
+        "url": "https://gitlab.com/dibomaharani18/vsgsffshsjieiieben/-/raw/Gsgsjskjsbsvsggsghsjjjshefgvsbsbkuyy/KawanFilmProvider.cs3",
+        "name": "KawanFilm"
+    },
+    {
         "iconUrl": "https://icons.duckduckgo.com/ip3/v8.kuramanime.tel.ico",
         "jarFileSize": 78465,
         "apiVersion": 1,
