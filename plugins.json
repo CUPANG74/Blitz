@@ -44,6 +44,28 @@
         "name": "Anoboy"
     },
     {
+        "iconUrl": "hhttps://tv7.idlix.asia/wp-content/uploads/2020/07/logov4.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CUPANG74/Blitz",
+        "fileSize": 29167,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 19,
+        "internalName": "Idlix",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Idlix.cs3",
+        "name": "Idlix"
+    },
+    {
         "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/K.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
