@@ -170,6 +170,27 @@
         "name": "Ngefilm"
     },
     {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 14420,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Duro92"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Oppadrama",
+        "description": "Oppadrama",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
+        "name": "Oppadrama"
+    },
+    {
         "iconUrl": "https://i.imgur.com/1tdNiVu.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
