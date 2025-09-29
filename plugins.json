@@ -110,7 +110,7 @@
     {
         "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/CUPANG74/Blitz",
         "fileSize": 14742,
         "status": 1,
         "language": "id",
@@ -124,7 +124,7 @@
         "version": 3,
         "internalName": "Klikxxi",
         "description": "KlikXXI merupakan layanan streaming film yang memberikan pengalaman menonton ratusan film Box Office.",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Klikxxi.cs3",
+        "url": "https://github.com/CUPANG74/Blitz/raw/refs/heads/builds/Klikxxi.cs3",
         "name": "Klikxxi"
     },
     {
