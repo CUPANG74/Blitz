@@ -15,11 +15,9 @@ class Klikxxi : MainAPI() {
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries)
 
     override val mainPage = mainPageOf(
-        "$mainUrl/?s=&search=advanced&post_type=movie&index=&orderby=&genre=&movieyear=&country=&quality=&page=%d" to "Update Terbaru",
-        "$mainUrl/category/western-series/page/%d/" to "Western Series",
-        "$mainUrl/category/india-series/page/%d/" to "India Series",
-        "$mainUrl/category/korea/page/%d/" to "Korea Series"
-    )
+        "$mainUrl/?s=&search=advanced&post_type=movie&index=&orderby=&genre=&movieyear=&country=&quality=&page=%d" to "Latest Movies",
+        "$mainUrl/category/TV-Series/page/%d/" to "TV Series",
+   )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
         val url = request.data.format(page)
