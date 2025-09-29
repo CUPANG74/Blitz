@@ -86,6 +86,26 @@
         "name": "KawanFilm"
     },
     {
+        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/L.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 33,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI merupakan layanan streaming film yang memberikan pengalaman menonton ratusan film Box Office.",
+        "url": "https://gitlab.com/dibomaharani18/vsgsffshsjieiieben/-/raw/Gsgsjskjsbsvsggsghsjjjshefgvsbsbkuyy/KlikXXI.cs3",
+        "name": "KlikXXI"
+    },
+    {
         "iconUrl": "https://icons.duckduckgo.com/ip3/v8.kuramanime.tel.ico",
         "jarFileSize": 78465,
         "apiVersion": 1,
