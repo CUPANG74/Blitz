@@ -20,4 +20,6 @@ cloudstream {
     )
 
     iconUrl = "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%"
+
+    isCrossPlatform = true
 }
