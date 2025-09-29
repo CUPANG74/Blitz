@@ -172,7 +172,7 @@
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "repositoryUrl": "https://github.com/CUPANG74/Blitz",
         "fileSize": 14420,
         "status": 1,
         "language": "id",
@@ -186,8 +186,8 @@
         ],
         "version": 3,
         "internalName": "Oppadrama",
-        "description": "Oppadrama",
-        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
+        "description": "use V P N as Proton V P N set to Spore",
+        "url": "https://github.com/CUPANG74/Blitz/raw/refs/heads/builds/Oppadrama.cs3",
         "name": "Oppadrama"
     },
     {
