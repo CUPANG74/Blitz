@@ -108,6 +108,26 @@
         "name": "Kuramanime"
     },
     {
+        "iconUrl": "https://i.imgur.com/Xq8AZzi.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/duro92/ExtCloud",
+        "fileSize": 14742,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Blitzlight, Duro92"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Klikxxi",
+        "description": "KlikXXI merupakan layanan streaming film yang memberikan pengalaman menonton ratusan film Box Office.",
+        "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Klikxxi.cs3",
+        "name": "Klikxxi"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
         "jarFileSize": 89768,
         "apiVersion": 1,
