@@ -170,47 +170,6 @@
         "name": "Ngefilm"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitz",
-        "fileSize": 14420,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Duro92"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Oppadrama",
-        "description": "use V P N as Proton V P N set to Spore",
-        "url": "https://github.com/CUPANG74/Blitz/raw/refs/heads/builds/Oppadrama.cs3",
-        "name": "Oppadrama"
-    },
-    {
-        "iconUrl": "https://i.imgur.com/1tdNiVu.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
-        "fileSize": 21183,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "CodeSannz"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie"
-        ],
-        "version": 10,
-        "internalName": "OppadramaProvider",
-        "description": "use V P N as Proton V P N set to Japan",
-        "url": "https://github.com/CUPANG74/Blitz/raw/refs/heads/builds/OppadramaProvider.cs3",
-        "name": "OppadramaProvider"
-    },
-    {
         "iconUrl": "https://icons.duckduckgo.com/ip3/otakudesu.best.ico",
         "jarFileSize": 74747,
         "apiVersion": 1,
