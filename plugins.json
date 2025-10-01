@@ -149,14 +149,14 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
-        "jarFileSize": 89768,
+        "jarFileSize": 81231,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/CUPANG74/Blitz",
-        "fileSize": 20451,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 18911,
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated, Phisher98"
+            "Hexated,Phisher98"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -165,8 +165,8 @@
         ],
         "version": 5,
         "internalName": "LayarKacaProvider",
-        "jarUrl": "https://raw.githubusercontent.com/Mohirufy/HiroStream/builds/LayarKacaProvider.jar",
-        "url": "https://raw.githubusercontent.com/Mohirufy/HiroStream/builds/LayarKacaProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
@@ -206,7 +206,7 @@
         ],
         "version": 3,
         "internalName": "Oppadrama",
-        "description": "Oppadrama",
+        "description": "Gunakan V P N seperti Proton VPN set ke Spore",
         "url": "https://raw.githubusercontent.com/duro92/ExtCloud/builds/Oppadrama.cs3",
         "name": "Oppadrama"
     },
