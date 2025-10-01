@@ -66,6 +66,26 @@
         "name": "Idlix"
     },
     {
+        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/I.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 20,
+        "internalName": "INDOFILM",
+        "description": "Khusus Sinyal Stabil (Gunakan V P N)",        
+        "url": "https://gitlab.com/dibomaharani18/vsgsffshsjieiieben/-/raw/Gsgsjskjsbsvsggsghsjjjshefgvsbsbkuyy/Indofilm.cs3",
+        "name": "INDOFILM"
+    },
+    {
         "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/K.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
