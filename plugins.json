@@ -148,7 +148,7 @@
         "name": "LayarKacaProvider"
     },
     {
-        "iconUrl": "https://i.imgur.com/6hafd31.png",
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://new18.ngefilm.site&size=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 20149,
@@ -163,9 +163,9 @@
             "Movie"
         ],
         "version": 33,
-        "internalName": "Ngefilm",
+        "internalName": "Ngefilm Ori",
         "url": "https://github.com/CUPANG74/Blitz/raw/refs/heads/builds/Ngefilm.cs3",
-        "name": "Ngefilm"
+        "name": "Ngefilm Ori"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://45.11.57.243&size=%size%",
